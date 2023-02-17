@@ -1,18 +1,3 @@
-'''
-This script aims at parsing the info of jobs of the sample page: https://news.ycombinator.com/jobs
-
-- Background -
-In the first trial, we parsed only 30 items from the webpage. We noticed that each page displays 30 items only, with a button "More" in the bottom.
-When the button is clicked, the next 30 items will be displayed. 
-When the last item is displayed and the button is clicked again, an error page appears with a button "Reload".
-
-- Method -
-1. Parse the page with Beautifulsoup
-2. Click the button "More" with Selenium Webdriver
-3. Repeat step 1 and 2 until reaching the error page
-4. Save the results into a csv file
-'''
-
 # Import libraries
 import pandas as pd
 
