@@ -1,4 +1,4 @@
-# Purpose of project (keep updated)
+# Purpose of project (keep update)
 Practice web scraping with Beautifulsoup and Selenium
 
 ## 2023 Feb 17 - Parsing_JD.py
