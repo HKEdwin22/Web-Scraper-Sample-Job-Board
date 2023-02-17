@@ -37,17 +37,16 @@ while cont:
     else:
         try:
             More = driver.find_element(By.LINK_TEXT, 'More')
-            
-            print(More)
+        except:
+            cont = False
+            break
+        else:
             # Click the link "More"
             More.click()
             
             # Update the webpage link
             driver.find_element(By.LINK_TEXT, 'More')
             url = driver.current_url
-        except:
-            cont = False
-            break
 
     # Give time for reading the webpage (Optional)
     # time.sleep(3)
