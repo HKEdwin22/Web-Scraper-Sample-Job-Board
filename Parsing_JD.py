@@ -53,7 +53,10 @@ while cont:
     More = content.find(class_ = 'morelink')
     More_link = More.get('href')
 
+# Check if all items are extracted
 print(f'{len(JD)} out of {nb_items} items are extracted in total.')
+
+# Save results into a csv file
 if len(JD) == nb_items:
     dict = {'Job Descriptions': JD}
     df = pd.DataFrame(dict)
