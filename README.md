@@ -39,7 +39,7 @@ I have used a simple word count to analyse the frequency of occurrence of each w
 </ol>
 
 ### Results
-The table has a shape of 960 x 877 (960 samples/openings and 877 different words). Words were rated a TFIDF score in each sample. If a word in a sample scored zero, it means that the corresponding word didn't exist in that sample. If a word in a sample scored high (e.g. 0.7xxx), it indicated that the word existed in the corresponding sample but was seldom found in other samples. Vice versa, if a word in a sample scored low (e.g. 0.02xx), it indicated that the word existed in the corresponding sample but was often found in other samples.
+The table had a shape of 960 x 877 (960 samples/openings and 877 different words). Words were rated a TFIDF score in each sample. If a word in a sample scored zero, it meant that the corresponding word didn't exist in that sample. If a word in a sample scored high (e.g. 0.7xxx), it indicated that the word existed in the corresponding sample but was seldom found in other samples. Vice versa, if a word in a sample scored low (e.g. 0.02xx), it indicated that the word existed in the corresponding sample but was often found in other samples.
 
 #### Example 1
 The word "hiring" scored 0.08575 in sample 1. It indicates that the word "hiring" existed in sample 1 and was often found in other samples.
