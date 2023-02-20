@@ -1,5 +1,8 @@
-# Provisional Purpose of the Project
-Practice web scraping with Beautifulsoup and Selenium
+# Provisional Purposes of the Project
+<ol>
+  <li>Practice web scraping with Beautifulsoup and Selenium</li>
+  <li>Use TFIDF</li>
+</ol>
 
 ## 2023 Feb 17 - Parsing_JD.py
 ### Objective
