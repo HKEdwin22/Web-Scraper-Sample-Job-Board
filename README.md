@@ -60,3 +60,6 @@ To interpret the results from the previous csv file.
 2. Plot scatter graph with Power BI
 3. Find insight
 4. Write report
+
+### Results
+Please refer to the file Report.md. Thank you!
