@@ -2,6 +2,7 @@
 <ol>
   <li>Practice web scraping with Beautifulsoup and Selenium</li>
   <li>Use TFIDF</li>
+  <li>Find insight with Power BI</li>
 </ol>
 
 ## 2023 Feb 17 - Parsing_JD.py
@@ -49,3 +50,13 @@ The word "hiring" scored 0.08575 in sample 1. It indicates that the word "hiring
 
 #### Example 2
 The word "hioperator" scored 0.7205 in sample 92. It indicates that the word "hioperator" existed in sample 92 but was seldom found in other samples.
+
+## 2023 Feb 21 - TFIDF Interpretation.md
+### Objective
+To interpret the results from the previous csv file.
+
+### Methodology
+1. Average out the TFIDF
+2. Plot scatter graph with Power BI
+3. Find insight
+4. Write report
