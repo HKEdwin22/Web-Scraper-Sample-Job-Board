@@ -1,4 +1,4 @@
-# Provisional Purposes of the Project
+# Purposes of the Project (Completed)
 <ol>
   <li>Practice web scraping with Beautifulsoup and Selenium</li>
   <li>Use TFIDF</li>
