@@ -19,7 +19,7 @@ If we say this dataset was a sample of the job market, this result would conclud
 For the rest of the words, we don't go through them one by one. We could still notice that "software", "remote" and "London" are on the list. 
 Thus, we can say that the employers were looking for software related professionals, the jobs were usually remote or based in London.
 ![Figure 2. Top 12 words of highest average TFIDF](https://github.com/KaverH/Web-Scraper-1/blob/main/TFIDF_12.png)
-*Figure 2. Top 12 words of highest average TFIDF*
+*Figure 2. Top 12 words with highest average TFIDF*
 
 ## Conclusions
 In conclusion, if our dataset was a sample of the job market, most of the employers were looking for senior engineers and engineers who were professional in building software products.
